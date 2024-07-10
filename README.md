@@ -25,7 +25,7 @@ Step 8 : Delete the ec2 instance (volume also deleted with ec2 itself) Now the s
 
 Step 9 : Again test the code in lambda function ,stale snapshot will be get deleted
 ![exec-snap-deleted](https://github.com/Suresh-mpt/cost-optimization-ebs/assets/173250817/3e017b37-7b70-4d40-8fda-aa16ad259ad7)
-Check the snapshot whether its deleted or not ,its deleted!!!
+Check the snapshot whether its deleted or not ,Yeah its deleted!!!
 ![snap-deleted](https://github.com/Suresh-mpt/cost-optimization-ebs/assets/173250817/c91e95f9-662c-4a14-84d3-4710732355a2)
 
 
