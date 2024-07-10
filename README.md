@@ -22,6 +22,7 @@ Step 7 : Deploying the code and test the function the execution will success
 Snapshot availabe 
 ![snap available](https://github.com/Suresh-mpt/cost-optimization-ebs/assets/173250817/6f044559-2b57-4940-b4ce-8e18a5170ee1)
 Step 8 : Delete the ec2 instance (volume also deleted with ec2 itself) Now the snapshot is in stale mode
+
 Step 9 : Again test the code in lambda function ,stale snapshot will be get deleted
 ![exec-snap-deleted](https://github.com/Suresh-mpt/cost-optimization-ebs/assets/173250817/3e017b37-7b70-4d40-8fda-aa16ad259ad7)
 Check the snapshot whether its deleted or not ,its deleted!!!
